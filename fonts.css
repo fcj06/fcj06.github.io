@@ -1,0 +1,13 @@
+body{
+    font-family: Roboto;
+    align-items: center;
+    justify-content: center;
+    background-image: url("g1.jpg");
+    background-size: cover;
+}
+.text{
+    text-align: center;
+    -webkit-text-stroke: 1px #fff; 
+    font-weight: bold;
+    text-shadow: 0 0 5px #5b947f, 0 0 5px #5b947f, 0 0 5px #5b947f, 0 0 5px #5b947f; font-weight: bold;
+}
